@@ -17,5 +17,5 @@ for line in lines:
     word_count += len(words)
     char_count += len(line)
 
-print("File has {0} lines, {1} words, {2} characters".format
-(line_count, word_count, char_count))
+print(f"""File has {line_count} lines,
+       {word_count} words, {char_count} characters""")
