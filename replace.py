@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 import sys
 
 # python replace.py zero 0 < infile.txt > outfile.txt
